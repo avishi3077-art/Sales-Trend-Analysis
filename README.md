@@ -1,4 +1,4 @@
-# Sales-Trend-Analysis
+# Sales-Trend-Visualization
 An interactive Sales Trend Visualization Dashboard designed to analyze sales performance, monitor trends over time, compare sales across different categories, and identify key business insights through dynamic charts and visualizations. It helps users understand sales patterns and make data-driven decisions.
 
  Tools Used:
