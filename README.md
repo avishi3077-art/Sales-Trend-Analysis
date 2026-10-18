@@ -1,5 +1,5 @@
 # Sales-Trend-Analysis
-An interactive dashboard to analyze sales data, identify trends, and visualize sales performance using charts and graph.
+An interactive Sales Trend Visualization Dashboard designed to analyze sales performance, monitor trends over time, compare sales across different categories, and identify key business insights through dynamic charts and visualizations. It helps users understand sales patterns and make data-driven decisions.
 
  Tools Used:
 - Power BI
